@@ -84,7 +84,19 @@ The script prints:
 - Model comparison table (MAE, MSE, training time)  
 - Prediction comparison table (Actual vs Predicted values)  
 
----
+
+
+
+## Dataset
+
+The dataset used in this project is not included due to its size.
+
+You can download it from:
+
+https://www.kaggle.com/datasets/usdot/flight-delays
+
+This dataset contains historical flight information including delays, airports, carriers, and scheduled times.
+
 
 ## ▶️ How to Run
 
